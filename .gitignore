@@ -1,0 +1,13 @@
+# CocoaPods
+NewsConsolidator/Pods/
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Build
+DerivedData/
+build/
+
+# macOS
+.DS_Store
